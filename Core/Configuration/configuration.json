@@ -1,0 +1,8 @@
+{
+    "PathsToRecordingFolders": [],
+    "FileCreationTimeGapInSeconds": 600,
+    "CheckFoldersRecursively": true,
+    "DbPath": "db\\chatids.realm",
+    "LogPath": "logs\\recordingsTracker.log",
+    "NotifierBotToken": "BOT_TOKEN"
+}
